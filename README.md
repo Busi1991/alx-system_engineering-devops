@@ -1,10 +1,3 @@
-On branch master
-Your branch is ahead of 'origin/master' by 1 commit.
-  (use "git push" to publish your local commits)
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   README.md
-
-no changes added to commit (use "git add" and/or "git commit -a")
+[master 9b99109] Task 1. What's in there?
+ 2 files changed, 12 insertions(+), 1 deletion(-)
+ create mode 100755 0x00-shell_basics/1-listit
