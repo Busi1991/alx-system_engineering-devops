@@ -1,3 +1,3 @@
-[master c9bea86] Task 1. What's in there?
- 3 files changed, 5 insertions(+), 11 deletions(-)
- create mode 100644 1-listit
+[master 22a2d95] Task 2. There's no place like home
+ 2 files changed, 5 insertions(+), 3 deletions(-)
+ create mode 100755 0x00-shell_basics/2-bring_me_home
