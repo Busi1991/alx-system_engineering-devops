@@ -1,0 +1,1 @@
+fund . -empty | rev |cut -down / -f 1 | rev { _
